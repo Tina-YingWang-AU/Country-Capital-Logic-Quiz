@@ -13,7 +13,8 @@ The application challenges users to guess the capitals of various countries. It 
 
 ## 🛠️ Technology Stack
 * **Language**: C#
-* **Environment**: .NET Core / Visual Studio
+* **Framework**: .NET Core / .NET Console
+* **Environment**: Visual Studio
 * **Core Concepts**: 2D Arrays, Logical Control Flows, Input Sanitization.
 
 ---
